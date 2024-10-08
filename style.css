@@ -1,0 +1,26 @@
+#Loja {
+    color: white;
+    background-color: red;
+    width: 50%;
+}
+
+#cardapio{
+    background-color: darkred;
+    color: white;
+}
+#func{
+    color: red;
+}
+#venda{
+    color: red;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#hist{
+    color: white;
+    background-color: darkred;
+}
+
